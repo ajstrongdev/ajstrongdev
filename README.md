@@ -4,7 +4,6 @@
 
 View my [portfolio](https://by.ajstrong.xyz).
 
- ━━━━━━ ❖ ━━━━━━ 
 ## My Projects
 | Name | Description |
 |------|----------|
@@ -12,7 +11,6 @@ View my [portfolio](https://by.ajstrong.xyz).
 | [Cantor College](https://github.com/ajstrongdev/cantor-college) | A website written in PHP & TailwindCSS for University website development. |
 | [Social App](https://github.com/ajstrongdev/social-app) | A simple social media website, where users can sign-up and post. Written in PHP. |
 
-━━━━━━ ❖ ━━━━━━ 
 ## Contributions
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajstrongdev&theme=material_palenight) 

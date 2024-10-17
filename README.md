@@ -15,9 +15,10 @@ View my [portfolio](https://by.ajstrong.xyz).
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajstrongdev&theme=material_palenight) 
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajstrongdev&theme=material_palenight)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajstrongdev&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajstrongdev&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajstrongdev&theme=material_palenight) 
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajstrongdev&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajstrongdev&theme=material_palenight) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajstrongdev&theme=material_palenight&utcOffset=0) 
  
 </div>

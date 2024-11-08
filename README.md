@@ -17,8 +17,7 @@ View my [portfolio](https://by.ajstrong.xyz).
 |------|----------|
 | **Stockhive** | A fullstack, web inventory management system using Next.JS, TailwindCSS, MySQL and Firebase. Made for university. |
 | **BeeSSG** | A simple, flexible static-site generator with intuitive styling, syntax and preserves in-line HTML, CSS and JavaScript. |
-| **SwiftSite:** | A website builder written in C#, made for university. |
-| **rpk-js** | A JavaScript rewrite of [rhino-pkg](https://github.com/rhino-linux/rhino-pkg) |
+| **Untitled Election Game** | Win the White House in this turn-based election game. Written in C# utilising Windows Forms. Made for university. |
 
 ## Contributions
 

@@ -11,6 +11,7 @@ View my [portfolio](https://by.ajstrong.xyz).
 | [Cantor College](https://github.com/ajstrongdev/cantor-college) | A website written in PHP & CSS for University website development. |
 | [Social App](https://github.com/ajstrongdev/social-app) | A simple social media website, where users can sign-up and post. Written in PHP & TailwindCSS. |
 | [DistroCollection](https://github.com/ajstrongdev/distrocollection) | A small C# Winforms application to store information locally about Linux distributions, made for university. |
+| [Population Data](https://github.com/ajstrongdev/population-data) |  Get a list of countries and their cities population data utilising a REST API. |
 
 ## Currently working on...
 | Name | Description |

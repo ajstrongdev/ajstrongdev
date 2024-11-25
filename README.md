@@ -16,7 +16,7 @@ View my [portfolio](https://by.ajstrong.xyz).
 ## Currently working on...
 | Name | Description |
 |------|----------|
-| **Stockhive** | A fullstack, web inventory management system wrriten in PHP and Laravel, with MySQL. Made for university. |
+| [StockHive](https://github.com/stockhive-uni/stockhiveapp) | A fullstack, web inventory management system wrriten in PHP and Laravel, with MySQL. Made for university. |
 | **BeeSSG** | A simple, flexible static-site generator with intuitive styling, syntax and preserves in-line HTML, CSS and JavaScript. |
 | **Win538Electors** | Win the White House in this turn-based election game. Written in C# utilising Windows Forms. Made for university. |
 

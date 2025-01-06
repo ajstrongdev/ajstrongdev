@@ -18,6 +18,7 @@ View my [portfolio](https://by.ajstrong.xyz).
 ## Currently working on...
 | Name | Description |
 |------|----------|
+| [Blog](https://github.com/ajstrongdev/blog) | A simple blog that parses Markdown into HTML. Written in Next.JS, TailwindCSS and TypeScript |
 | **BeeSSG** | A simple, flexible static-site generator with intuitive styling, syntax and preserves in-line HTML, CSS and JavaScript. |
 
 

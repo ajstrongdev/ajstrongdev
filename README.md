@@ -8,6 +8,7 @@ View my [portfolio](https://by.ajstrong.xyz).
 | Name | Description |
 |------|----------|
 | [Rhino Linux](https://rhinolinux.org) | An Ubuntu-based, rolling release distribution, with Pacstall & XFCE at its core. |
+| [Gizmo Garage](https://github.com/PSP-Autodesk3/gizmo-garage/) |  A 3D library for Video Game assets, utilising AutoDesk APIs. Written in Next.JS with an Express backend |
 | [StockHive](https://github.com/stockhive-uni/stockhiveapp) | A fullstack, web inventory management system writen in PHP and Laravel, with MySQL. Made for university. |
 | [Win538](https://github.com/ajstrongdev/Win538) | Win the White House in this turn-based election game. Written in C# utilising WinForms. Made for university. |
 | [Cantor College](https://github.com/ajstrongdev/cantor-college) | A website written in PHP & CSS for University website development. |
@@ -18,8 +19,8 @@ View my [portfolio](https://by.ajstrong.xyz).
 ## Currently working on...
 | Name | Description |
 |------|----------|
+| [Socky](https://github.com/ajstrongdev/socky) | A real-time chat application written in Next.JS utilising MySQL, Socket.IO and Firebase |
 | [Blog](https://github.com/ajstrongdev/blog) | A simple blog that parses Markdown into HTML. Written in Next.JS, TailwindCSS and TypeScript |
-| **BeeSSG** | A simple, flexible static-site generator with intuitive styling, syntax and preserves in-line HTML, CSS and JavaScript. |
 
 
 ## Contributions

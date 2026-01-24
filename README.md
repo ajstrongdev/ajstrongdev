@@ -7,8 +7,8 @@ View my [portfolio](https://by.ajstrong.xyz).
 ## My Projects
 | Name | Description |
 |------|----------|
-| [democracyonline.io](https://democracyonline.io) |  democracyonline.io is a free to play, open source, multiplayer web-game. Build parties, win elections, and pass legislation in a living democracy. |
 | [Rhino Linux](https://rhinolinux.org) | An Ubuntu-based, rolling release distribution, with Pacstall & XFCE at its core. |
+| [democracyonline.io](https://democracyonline.io) |  democracyonline.io is a free to play, open source, multiplayer web-game. Build parties, win elections, and pass legislation in a living democracy. |
 | [Gizmo Garage](https://github.com/PSP-Autodesk3/gizmo-garage/) |  A 3D library for Video Game assets, utilising AutoDesk APIs. Written in Next.JS with an Express backend |
 | [StockHive](https://github.com/stockhive-uni/stockhiveapp) | A fullstack, web inventory management system writen in PHP and Laravel, with MySQL. Made for university. |
 | [Win538](https://github.com/ajstrongdev/Win538) | Win the White House in this turn-based election game. Written in C# utilising WinForms. Made for university. |

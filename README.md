@@ -17,13 +17,6 @@ View my [portfolio](https://by.ajstrong.xyz).
 | [DistroCollection](https://github.com/ajstrongdev/distrocollection) | A small C# Winforms application to store information locally about Linux distributions, made for university. |
 | [Population Data](https://github.com/ajstrongdev/population-data) |  Get a list of countries and their cities population data utilising a REST API. |
 
-## Currently working on...
-| Name | Description |
-|------|----------|
-| [Socky](https://github.com/ajstrongdev/socky) | A real-time chat application written in Next.JS utilising MySQL, Socket.IO and Firebase |
-| [Blog](https://github.com/ajstrongdev/blog) | A simple blog that parses Markdown into HTML. Written in Next.JS, TailwindCSS and TypeScript |
-
-
 ## Contributions
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajstrongdev&theme=material_palenight) 
